@@ -1,6 +1,7 @@
 name: 'Setup C++ environment'
 description: 'Setup a C++ environment which supports C++11, C++14 and C++17.'
 author: 'ioquatix'
+
 runs:
   using: 'node12'
-  main: 'lib/setup-cpp.js'
+  main: 'index.js'
