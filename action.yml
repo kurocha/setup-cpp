@@ -1,0 +1,5 @@
+name: 'Setup C++ environment'
+description: 'Setup a C++ environment which supports C++11, C++14 and C++17.'
+author: 'ioquatix'
+runs:
+  main: 'lib/setup-cpp.sh'
