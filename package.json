@@ -1,0 +1,21 @@
+{
+	"name": "setup-cpp",
+	"main": "index.js",
+	"version": "1.0.0",
+	"description": "C++ GitHub action",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kurocha/setup-cpp.git"
+	},
+	"homepage": "https://github.com/kurocha/setup-cpp",
+	"keywords": [
+		"GitHub",
+		"Actions",
+		"C++"
+	],
+	"dependencies": {
+		"@actions/core": "^1.1.1",
+		"@actions/exec": "^1.0.1"
+	}
+}

@@ -1,6 +1,6 @@
 # Setup C++
 
-This action sets up a c++ environment for use in actions by:
+This action sets up a C++ environment for use in actions by:
 
 - Installing the appropriate packages.
 
